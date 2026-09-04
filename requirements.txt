@@ -1,0 +1,7 @@
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-ollama==0.1.1
+pandas==2.2.2
+pymysql==1.1.1
+sqlalchemy==2.0.32
+cryptography==42.0.5
